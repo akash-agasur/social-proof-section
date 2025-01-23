@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/akash-agasur/social-proof-section)
-- Live Site URL: [vercel Link](https://qrcode-vitthal.netlify.app/)
+- Live Site URL: [vercel Link](https://social-proof-section-delta-nine.vercel.app/)
 
 ### ScreenShot
 
